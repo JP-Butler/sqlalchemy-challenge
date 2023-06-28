@@ -20,19 +20,20 @@ See [Usage](#usage) for installing guide/links.
 The following are needed to run script successfully:  
 1. virtual development environment running Python version 3 
 2. Python Libraries:
-    -matplotlib
-    -numpy
-    -sqlalchemy
-    -datetime
-    -flask
+    * matplotlib
+    * numpy
+    * sqlalchemy
+    * datetime
+    * flask 
 3.**NOTE** verify you are in the folder that contains the app.py file before running. The terminal will likey render an error otherwise, and flask link (http://127.0.0.1:5000) will be inacessible.
 
 ## Usage
 1. Download and install Anaconda for Python 3.[Download Anaconda](https://www.anaconda.com/distribution/#windows)
 2. Most Python libraries should be installed once the Anaconda download is complete. To verify library packages, run the following in the ***Anaconda Prompt***:
-'''
+```
+
 conda list
-'''
+```
 
 ## Contributing
 Justin Butler
